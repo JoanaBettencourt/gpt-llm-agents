@@ -1,0 +1,486 @@
+[
+    {
+        "id": 2,
+        "username": "admin",
+        "firstname": "Admin",
+        "lastname": "User",
+        "fullname": "Admin User",
+        "email": "admin@example.com",
+        "department": "",
+        "firstaccess": 1748708457,
+        "lastaccess": 1750808632,
+        "lastcourseaccess": 1750808632,
+        "profileimageurlsmall": "http://localhost:8081/theme/image.php/boost/core/1750776047/u/f2",
+        "profileimageurl": "http://localhost:8081/theme/image.php/boost/core/1750776047/u/f1",
+        "roles": [
+            {
+                "roleid": 1,
+                "name": "",
+                "shortname": "manager",
+                "sortorder": 0
+            }
+        ],
+        "preferences": [
+            {
+                "name": "core_message_migrate_data",
+                "value": "1"
+            },
+            {
+                "name": "core_user_welcome",
+                "value": "1748708458"
+            },
+            {
+                "name": "last_time_enrolments_synced",
+                "value": "1750818083"
+            },
+            {
+                "name": "login_failed_count_since_success",
+                "value": "0"
+            },
+            {
+                "name": "tool_usertours_tour_completion_time_3",
+                "value": "1748708922"
+            },
+            {
+                "name": "tool_usertours_tour_completion_time_4",
+                "value": "1749048246"
+            },
+            {
+                "name": "tool_usertours_tour_completion_time_5",
+                "value": "1748708465"
+            },
+            {
+                "name": "userselector_autoselectunique",
+                "value": "0"
+            },
+            {
+                "name": "userselector_optionscollapsed",
+                "value": "0"
+            },
+            {
+                "name": "userselector_preserveselected",
+                "value": "0"
+            },
+            {
+                "name": "_lastloaded",
+                "value": 1750818083
+            }
+        ],
+        "enrolledcourses": [
+            {
+                "id": 2,
+                "fullname": "College Algebra",
+                "shortname": "College Algebra"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "username": "tutoria",
+        "firstname": "Tutor",
+        "lastname": "IA",
+        "fullname": "Tutor IA",
+        "email": "tutoria@example.com",
+        "department": "",
+        "firstaccess": 1749509535,
+        "lastaccess": 1749509535,
+        "lastcourseaccess": 1749509552,
+        "description": "",
+        "descriptionformat": 1,
+        "profileimageurlsmall": "http://localhost:8081/theme/image.php/boost/core/1750776047/u/f2",
+        "profileimageurl": "http://localhost:8081/theme/image.php/boost/core/1750776047/u/f1",
+        "roles": [
+            {
+                "roleid": 4,
+                "name": "",
+                "shortname": "teacher",
+                "sortorder": 0
+            }
+        ],
+        "enrolledcourses": [
+            {
+                "id": 2,
+                "fullname": "College Algebra",
+                "shortname": "College Algebra"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "username": "estudante01",
+        "firstname": "estudante",
+        "lastname": "01",
+        "fullname": "estudante 01",
+        "email": "estudante01@example.com",
+        "department": "",
+        "firstaccess": 0,
+        "lastaccess": 0,
+        "lastcourseaccess": 0,
+        "description": "",
+        "descriptionformat": 1,
+        "profileimageurlsmall": "http://localhost:8081/theme/image.php/boost/core/1750776047/u/f2",
+        "profileimageurl": "http://localhost:8081/theme/image.php/boost/core/1750776047/u/f1",
+        "roles": [
+            {
+                "roleid": 5,
+                "name": "",
+                "shortname": "student",
+                "sortorder": 0
+            }
+        ],
+        "enrolledcourses": [
+            {
+                "id": 2,
+                "fullname": "College Algebra",
+                "shortname": "College Algebra"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "username": "estudante02",
+        "firstname": "estudante",
+        "lastname": "02",
+        "fullname": "estudante 02",
+        "email": "estudante02@example.com",
+        "department": "",
+        "firstaccess": 0,
+        "lastaccess": 0,
+        "lastcourseaccess": 0,
+        "description": "",
+        "descriptionformat": 1,
+        "profileimageurlsmall": "http://localhost:8081/theme/image.php/boost/core/1750776047/u/f2",
+        "profileimageurl": "http://localhost:8081/theme/image.php/boost/core/1750776047/u/f1",
+        "roles": [
+            {
+                "roleid": 5,
+                "name": "",
+                "shortname": "student",
+                "sortorder": 0
+            }
+        ],
+        "enrolledcourses": [
+            {
+                "id": 2,
+                "fullname": "College Algebra",
+                "shortname": "College Algebra"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "username": "estudante03",
+        "firstname": "estudante",
+        "lastname": "03",
+        "fullname": "estudante 03",
+        "email": "estudante03@example.com",
+        "department": "",
+        "firstaccess": 0,
+        "lastaccess": 0,
+        "lastcourseaccess": 0,
+        "description": "",
+        "descriptionformat": 1,
+        "profileimageurlsmall": "http://localhost:8081/theme/image.php/boost/core/1750776047/u/f2",
+        "profileimageurl": "http://localhost:8081/theme/image.php/boost/core/1750776047/u/f1",
+        "roles": [
+            {
+                "roleid": 5,
+                "name": "",
+                "shortname": "student",
+                "sortorder": 0
+            }
+        ],
+        "enrolledcourses": [
+            {
+                "id": 2,
+                "fullname": "College Algebra",
+                "shortname": "College Algebra"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "username": "estudante04",
+        "firstname": "estudante",
+        "lastname": "04",
+        "fullname": "estudante 04",
+        "email": "estudante04@example.com",
+        "department": "",
+        "firstaccess": 0,
+        "lastaccess": 0,
+        "lastcourseaccess": 0,
+        "description": "",
+        "descriptionformat": 1,
+        "profileimageurlsmall": "http://localhost:8081/theme/image.php/boost/core/1750776047/u/f2",
+        "profileimageurl": "http://localhost:8081/theme/image.php/boost/core/1750776047/u/f1",
+        "roles": [
+            {
+                "roleid": 5,
+                "name": "",
+                "shortname": "student",
+                "sortorder": 0
+            }
+        ],
+        "enrolledcourses": [
+            {
+                "id": 2,
+                "fullname": "College Algebra",
+                "shortname": "College Algebra"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "username": "estudante05",
+        "firstname": "estudante",
+        "lastname": "05",
+        "fullname": "estudante 05",
+        "email": "estudante05@example.com",
+        "department": "",
+        "firstaccess": 0,
+        "lastaccess": 0,
+        "lastcourseaccess": 0,
+        "description": "",
+        "descriptionformat": 1,
+        "profileimageurlsmall": "http://localhost:8081/theme/image.php/boost/core/1750776047/u/f2",
+        "profileimageurl": "http://localhost:8081/theme/image.php/boost/core/1750776047/u/f1",
+        "roles": [
+            {
+                "roleid": 5,
+                "name": "",
+                "shortname": "student",
+                "sortorder": 0
+            }
+        ],
+        "enrolledcourses": [
+            {
+                "id": 2,
+                "fullname": "College Algebra",
+                "shortname": "College Algebra"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "username": "estudante06",
+        "firstname": "estudante",
+        "lastname": "06",
+        "fullname": "estudante 06",
+        "email": "estudane06@example.com",
+        "department": "",
+        "firstaccess": 0,
+        "lastaccess": 0,
+        "lastcourseaccess": 0,
+        "description": "",
+        "descriptionformat": 1,
+        "profileimageurlsmall": "http://localhost:8081/theme/image.php/boost/core/1750776047/u/f2",
+        "profileimageurl": "http://localhost:8081/theme/image.php/boost/core/1750776047/u/f1",
+        "roles": [
+            {
+                "roleid": 5,
+                "name": "",
+                "shortname": "student",
+                "sortorder": 0
+            }
+        ],
+        "enrolledcourses": [
+            {
+                "id": 2,
+                "fullname": "College Algebra",
+                "shortname": "College Algebra"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "username": "estudante07",
+        "firstname": "estudante",
+        "lastname": "07",
+        "fullname": "estudante 07",
+        "email": "estudante07@example.com",
+        "department": "",
+        "firstaccess": 0,
+        "lastaccess": 0,
+        "lastcourseaccess": 0,
+        "description": "",
+        "descriptionformat": 1,
+        "profileimageurlsmall": "http://localhost:8081/theme/image.php/boost/core/1750776047/u/f2",
+        "profileimageurl": "http://localhost:8081/theme/image.php/boost/core/1750776047/u/f1",
+        "roles": [
+            {
+                "roleid": 5,
+                "name": "",
+                "shortname": "student",
+                "sortorder": 0
+            }
+        ],
+        "enrolledcourses": [
+            {
+                "id": 2,
+                "fullname": "College Algebra",
+                "shortname": "College Algebra"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "username": "estudante08",
+        "firstname": "estudante",
+        "lastname": "08",
+        "fullname": "estudante 08",
+        "email": "estudante08@example.com",
+        "department": "",
+        "firstaccess": 0,
+        "lastaccess": 0,
+        "lastcourseaccess": 0,
+        "description": "",
+        "descriptionformat": 1,
+        "profileimageurlsmall": "http://localhost:8081/theme/image.php/boost/core/1750776047/u/f2",
+        "profileimageurl": "http://localhost:8081/theme/image.php/boost/core/1750776047/u/f1",
+        "roles": [
+            {
+                "roleid": 5,
+                "name": "",
+                "shortname": "student",
+                "sortorder": 0
+            }
+        ],
+        "enrolledcourses": [
+            {
+                "id": 2,
+                "fullname": "College Algebra",
+                "shortname": "College Algebra"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "username": "estudante09",
+        "firstname": "estudante",
+        "lastname": "09",
+        "fullname": "estudante 09",
+        "email": "estudante09@example.com",
+        "department": "",
+        "firstaccess": 0,
+        "lastaccess": 0,
+        "lastcourseaccess": 0,
+        "description": "",
+        "descriptionformat": 1,
+        "profileimageurlsmall": "http://localhost:8081/theme/image.php/boost/core/1750776047/u/f2",
+        "profileimageurl": "http://localhost:8081/theme/image.php/boost/core/1750776047/u/f1",
+        "roles": [
+            {
+                "roleid": 5,
+                "name": "",
+                "shortname": "student",
+                "sortorder": 0
+            }
+        ],
+        "enrolledcourses": [
+            {
+                "id": 2,
+                "fullname": "College Algebra",
+                "shortname": "College Algebra"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "username": "estudante10",
+        "firstname": "estudante",
+        "lastname": "10",
+        "fullname": "estudante 10",
+        "email": "estudante10@example.com",
+        "department": "",
+        "firstaccess": 0,
+        "lastaccess": 0,
+        "lastcourseaccess": 0,
+        "description": "",
+        "descriptionformat": 1,
+        "profileimageurlsmall": "http://localhost:8081/theme/image.php/boost/core/1750776047/u/f2",
+        "profileimageurl": "http://localhost:8081/theme/image.php/boost/core/1750776047/u/f1",
+        "roles": [
+            {
+                "roleid": 5,
+                "name": "",
+                "shortname": "student",
+                "sortorder": 0
+            }
+        ],
+        "enrolledcourses": [
+            {
+                "id": 2,
+                "fullname": "College Algebra",
+                "shortname": "College Algebra"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "username": "tutor01",
+        "firstname": "Tutor",
+        "lastname": "01",
+        "fullname": "Tutor 01",
+        "email": "tutor01@example.com",
+        "department": "",
+        "firstaccess": 0,
+        "lastaccess": 0,
+        "lastcourseaccess": 0,
+        "description": "",
+        "descriptionformat": 1,
+        "profileimageurlsmall": "http://localhost:8081/theme/image.php/boost/core/1750776047/u/f2",
+        "profileimageurl": "http://localhost:8081/theme/image.php/boost/core/1750776047/u/f1",
+        "roles": [
+            {
+                "roleid": 4,
+                "name": "",
+                "shortname": "teacher",
+                "sortorder": 0
+            }
+        ],
+        "enrolledcourses": [
+            {
+                "id": 2,
+                "fullname": "College Algebra",
+                "shortname": "College Algebra"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "username": "professor01",
+        "firstname": "professor",
+        "lastname": "01",
+        "fullname": "professor 01",
+        "email": "professor01@example.com",
+        "department": "",
+        "firstaccess": 0,
+        "lastaccess": 0,
+        "lastcourseaccess": 0,
+        "description": "",
+        "descriptionformat": 1,
+        "profileimageurlsmall": "http://localhost:8081/theme/image.php/boost/core/1750776047/u/f2",
+        "profileimageurl": "http://localhost:8081/theme/image.php/boost/core/1750776047/u/f1",
+        "roles": [
+            {
+                "roleid": 1,
+                "name": "",
+                "shortname": "manager",
+                "sortorder": 0
+            },
+            {
+                "roleid": 3,
+                "name": "",
+                "shortname": "editingteacher",
+                "sortorder": 0
+            }
+        ],
+        "enrolledcourses": [
+            {
+                "id": 2,
+                "fullname": "College Algebra",
+                "shortname": "College Algebra"
+            }
+        ]
+    }
+]

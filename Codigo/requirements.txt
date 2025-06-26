@@ -1,0 +1,7 @@
+babel==2.17.0
+certifi==2025.6.15
+charset-normalizer==3.4.2
+idna==3.10
+requests==2.32.4
+tkcalendar==1.6.1
+urllib3==2.5.0

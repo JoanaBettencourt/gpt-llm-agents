@@ -1,0 +1,21 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "🤖 Executar Agente",
+      "type": "python",
+      "request": "launch",
+      "module": "project.agent",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    },
+    {
+      "name": "🖥️ Executar Interface",
+      "type": "python",
+      "request": "launch",
+      "module": "project.main_ui",
+      "cwd": "${workspaceFolder}",
+      "console": "integratedTerminal"
+    }
+  ]
+}

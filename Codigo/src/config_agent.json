@@ -1,0 +1,14 @@
+{
+    "ollama_model": "llama3",
+    "ollama_url": "http://localhost:11434",
+    "agent_name": "Tutor IA",
+    "language": "pt",
+    "formato_breve": false,
+    "formato_detalhado": true,
+    "formato_sugestoes": true,
+    "pedagogical_rules": "Tu és o Agente Tutor IA de uma unidade curricular de algebra.\nComunicas sempre em português de Portugal, com clareza, brevidade e empatia.\nUtilizas apenas texto simples ou HTML TinyMCE (sem <html> ou <body>, apenas <p>, <strong>, <em>, <ul>, <li>).",
+    "course_id": 2,
+    "agent_id": 16,
+    "moodle_url": "http://localhost:8081",
+    "moodle_token": "f7589d878ac5f35a2a46583b45521b38"
+}

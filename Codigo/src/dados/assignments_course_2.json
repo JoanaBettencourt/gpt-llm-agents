@@ -1,0 +1,783 @@
+{
+    "courses": [
+        {
+            "id": 2,
+            "fullname": "College Algebra",
+            "shortname": "College Algebra",
+            "timemodified": 1749061476,
+            "assignments": [
+                {
+                    "id": 1,
+                    "cmid": 19,
+                    "course": 2,
+                    "name": "Template Assignment",
+                    "nosubmissions": 0,
+                    "submissiondrafts": 0,
+                    "sendnotifications": 0,
+                    "sendlatenotifications": 0,
+                    "sendstudentnotifications": 1,
+                    "duedate": 0,
+                    "allowsubmissionsfromdate": 0,
+                    "grade": 100,
+                    "gradepenalty": 0,
+                    "timemodified": 1698178808,
+                    "completionsubmit": 0,
+                    "cutoffdate": 0,
+                    "gradingduedate": 0,
+                    "teamsubmission": 0,
+                    "requireallteammemberssubmit": 0,
+                    "teamsubmissiongroupingid": 0,
+                    "blindmarking": 0,
+                    "hidegrader": 0,
+                    "revealidentities": 0,
+                    "attemptreopenmethod": "none",
+                    "maxattempts": -1,
+                    "markingworkflow": 0,
+                    "markingallocation": 0,
+                    "markinganonymous": 0,
+                    "requiresubmissionstatement": 0,
+                    "preventsubmissionnotingroup": 0,
+                    "configs": [
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "enabled",
+                            "value": "1"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "maxfilesubmissions",
+                            "value": "1"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "maxsubmissionsizebytes",
+                            "value": "41943040"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "filetypeslist",
+                            "value": ""
+                        },
+                        {
+                            "plugin": "comments",
+                            "subtype": "assignsubmission",
+                            "name": "enabled",
+                            "value": "1"
+                        }
+                    ],
+                    "intro": "<p></p>\n<div style=\":d=;\"><span style=\"color: rgb(173, 0, 0); font-weight: bolder; font-size: 0.9375rem;\">Assignments\n                        are useful when students need to upload documents, provide information,\n                        or submit media. They should be appropriate in scope and provide\n                        instructions that\n                        express clear expectations that will be transparent through use of\n                        applicable rubrics.</span><br></div><div style=\":d=;\"><span style=\"color: rgb(173, 0, 0); font-weight: bolder; font-size: 0.9375rem;\"><br></span></div><div style=\":d=;\"><strong><span>\n            <p style=\"\"><span style=\"color: #AD0000;\">When designing your assignments, create opportunities for authentic\n                    assessment. This means the assignments provide opportunities for\n                    critical thinking, problem-solving, reflection, and application of\n                    essential skills in a context that is meaningful to the student.</span></p>\n        </span></strong></div>\n<h5 style=\":=;\">Instructions</h5>\n<p>This assignment addresses <span style=\":f=;\">course outcome<span><span style=\"color: #AD0000;\"><strong>(s) X</strong> </span></span>and module learning objective<span style=\"color: #AD0000;\"><span><strong>(</strong></span><strong>s) X</strong></span></span><strong> <span style=\"color: #AD0000;\">[linked to syllabus]</span>. <span style=\"color: #AD0000;\">[</span><span style=\"color: #AD0000;\">Provide clear instructions, both\n            for how the students should complete and format the assignment as well\n            as information such as the naming conventions they should use and the\n            file format required for grading and expected response length.]</span></strong><br><strong><span style=\"color: #AD0000;\"></span></strong>\n</p>\n\n<p><strong><span style=\"color: #AD0000;\"></span></strong></p>\n<div><span><span style=\"color: #AD0000;\"><strong>Make sure\n                settings are correct for file upload or online text, number of files allowed, notifying graders\n                upon submission, and restrictions/conditional release.</strong></span></span></div>\n<p><span><strong><span><span style=\"color: #AD0000;\"></span></span>\n        </strong></span></p>\n<p><span><span style=\"color: #AD0000;\"><strong>Activity completion: set to \"Student must submit this activity to complete it,\" with expected completion date if desired.</strong></span></span>\n</p>\n<p></p>",
+                    "introformat": 1,
+                    "introfiles": [],
+                    "introattachments": [],
+                    "timelimit": 0,
+                    "submissionattachments": 0
+                },
+                {
+                    "id": 2,
+                    "cmid": 37,
+                    "course": 2,
+                    "name": "Quiz 1 Work Upload Assignment",
+                    "nosubmissions": 0,
+                    "submissiondrafts": 0,
+                    "sendnotifications": 0,
+                    "sendlatenotifications": 0,
+                    "sendstudentnotifications": 1,
+                    "duedate": 0,
+                    "allowsubmissionsfromdate": 0,
+                    "grade": 100,
+                    "gradepenalty": 0,
+                    "timemodified": 1698179210,
+                    "completionsubmit": 0,
+                    "cutoffdate": 0,
+                    "gradingduedate": 0,
+                    "teamsubmission": 0,
+                    "requireallteammemberssubmit": 0,
+                    "teamsubmissiongroupingid": 0,
+                    "blindmarking": 0,
+                    "hidegrader": 0,
+                    "revealidentities": 0,
+                    "attemptreopenmethod": "none",
+                    "maxattempts": -1,
+                    "markingworkflow": 0,
+                    "markingallocation": 0,
+                    "markinganonymous": 0,
+                    "requiresubmissionstatement": 0,
+                    "preventsubmissionnotingroup": 0,
+                    "configs": [
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "enabled",
+                            "value": "1"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "maxfilesubmissions",
+                            "value": "1"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "maxsubmissionsizebytes",
+                            "value": "41943040"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "filetypeslist",
+                            "value": ""
+                        },
+                        {
+                            "plugin": "comments",
+                            "subtype": "assignsubmission",
+                            "name": "enabled",
+                            "value": "1"
+                        }
+                    ],
+                    "intro": "<h5 style=\":=;\">Instructions</h5>\n<p>This assignment is for you to upload your work for this Quiz. Number each problem and be neat with your work.<strong><span><span><br></span></span></strong></p>\n<p><span><strong>Work must be uploaded before the due date of the Quiz <span>to receive credit. Quiz grades\n                may be penalized if no work is shown on a problem or uploaded. </span></strong><span><span><span><span><span><strong>Please make sure your image is legible, otherwise you may still occur penalties.</strong></span></span></span></span></span></span></p>\n<p><span><span><span><span><span><span><span>Name the file as LastName_Quiz#Work (Example: Smith_Quiz1Work).</span></span></span></span></span></span></span></p>\n<p><span><span><span><span><span><span><span>You may submit your file as a PDF, DOC, TXT, GIF, JPEG, or PNG.<br></span><strong></strong></span></span></span></span></span></span></p>\n<p><span><span style=\"color: #AD0000;\"><strong><br></strong></span></span></p>\n<p><span><span style=\"color: #AD0000;\"><strong>For adopting instructors:<br></strong></span></span></p>\n<ol>\n    <li><span><span style=\"color: #AD0000;\"><strong>Make sure\n                    settings are correct for file upload or online text, number of files allowed, notifying graders\n                    upon submission, and restrictions/conditional release.</strong></span></span></li>\n    <li><span><span style=\"color: #AD0000;\"><strong></strong></span></span><span><strong></strong></span><span><span style=\"color: #AD0000;\"><strong>Activity completion: set to \"Student must submit this activity to complete it,\" with expected completion date if desired.</strong></span></span>\n    </li>\n</ol>",
+                    "introformat": 1,
+                    "introfiles": [],
+                    "introattachments": [],
+                    "timelimit": 0,
+                    "submissionattachments": 0
+                },
+                {
+                    "id": 3,
+                    "cmid": 53,
+                    "course": 2,
+                    "name": "Quiz 2 Work Upload Assignment",
+                    "nosubmissions": 0,
+                    "submissiondrafts": 0,
+                    "sendnotifications": 0,
+                    "sendlatenotifications": 0,
+                    "sendstudentnotifications": 1,
+                    "duedate": 0,
+                    "allowsubmissionsfromdate": 0,
+                    "grade": 100,
+                    "gradepenalty": 0,
+                    "timemodified": 1698179281,
+                    "completionsubmit": 0,
+                    "cutoffdate": 0,
+                    "gradingduedate": 0,
+                    "teamsubmission": 0,
+                    "requireallteammemberssubmit": 0,
+                    "teamsubmissiongroupingid": 0,
+                    "blindmarking": 0,
+                    "hidegrader": 0,
+                    "revealidentities": 0,
+                    "attemptreopenmethod": "none",
+                    "maxattempts": -1,
+                    "markingworkflow": 0,
+                    "markingallocation": 0,
+                    "markinganonymous": 0,
+                    "requiresubmissionstatement": 0,
+                    "preventsubmissionnotingroup": 0,
+                    "configs": [
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "enabled",
+                            "value": "1"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "maxfilesubmissions",
+                            "value": "1"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "maxsubmissionsizebytes",
+                            "value": "41943040"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "filetypeslist",
+                            "value": ""
+                        },
+                        {
+                            "plugin": "comments",
+                            "subtype": "assignsubmission",
+                            "name": "enabled",
+                            "value": "1"
+                        }
+                    ],
+                    "intro": "<h5 style=\":=;\">Instructions</h5>\n<p>This assignment is for you to upload your work for this Quiz. Number each problem and be neat with your work.<strong><span><span><br></span></span></strong></p>\n<p><span><strong>Work must be uploaded before the due date of the Quiz <span>to receive credit. Quiz grades\n                may be penalized if no work is shown on a problem or uploaded. </span></strong><span><span><span><span><span><strong>Please make sure your image is legible, otherwise you may still occur penalties.</strong></span></span></span></span></span></span></p>\n<p><span><span><span><span><span><span><span>Name the file as LastName_Quiz#Work (Example: Smith_Quiz1Work).</span></span></span></span></span></span></span></p>\n<p><span><span><span><span><span><span><span>You may submit your file as a PDF, DOC, TXT, GIF, JPEG, or PNG.<br></span><strong></strong></span></span></span></span></span></span></p>\n<p><span><span style=\"color: #AD0000;\"><strong><br></strong></span></span></p>\n<p><span><span style=\"color: #AD0000;\"><strong>For adopting instructors:<br></strong></span></span></p>\n<ol>\n    <li><span><span style=\"color: #AD0000;\"><strong>Make sure\n                    settings are correct for file upload or online text, number of files allowed, notifying graders\n                    upon submission, and restrictions/conditional release.</strong></span></span></li>\n    <li><span><span style=\"color: #AD0000;\"><strong></strong></span></span><span><strong></strong></span><span><span style=\"color: #AD0000;\"><strong>Activity completion: set to \"Student must submit this activity to complete it,\" with expected completion date if desired.</strong></span></span>\n    </li>\n</ol>",
+                    "introformat": 1,
+                    "introfiles": [],
+                    "introattachments": [],
+                    "timelimit": 0,
+                    "submissionattachments": 0
+                },
+                {
+                    "id": 4,
+                    "cmid": 57,
+                    "course": 2,
+                    "name": "Exam 1 Work Upload Assignment",
+                    "nosubmissions": 0,
+                    "submissiondrafts": 0,
+                    "sendnotifications": 0,
+                    "sendlatenotifications": 0,
+                    "sendstudentnotifications": 1,
+                    "duedate": 0,
+                    "allowsubmissionsfromdate": 0,
+                    "grade": 100,
+                    "gradepenalty": 0,
+                    "timemodified": 1698183856,
+                    "completionsubmit": 0,
+                    "cutoffdate": 0,
+                    "gradingduedate": 0,
+                    "teamsubmission": 0,
+                    "requireallteammemberssubmit": 0,
+                    "teamsubmissiongroupingid": 0,
+                    "blindmarking": 0,
+                    "hidegrader": 0,
+                    "revealidentities": 0,
+                    "attemptreopenmethod": "none",
+                    "maxattempts": -1,
+                    "markingworkflow": 0,
+                    "markingallocation": 0,
+                    "markinganonymous": 0,
+                    "requiresubmissionstatement": 0,
+                    "preventsubmissionnotingroup": 0,
+                    "configs": [
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "enabled",
+                            "value": "1"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "maxfilesubmissions",
+                            "value": "1"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "maxsubmissionsizebytes",
+                            "value": "41943040"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "filetypeslist",
+                            "value": ""
+                        },
+                        {
+                            "plugin": "comments",
+                            "subtype": "assignsubmission",
+                            "name": "enabled",
+                            "value": "1"
+                        }
+                    ],
+                    "intro": "<h5 style=\":=;\">Instructions</h5>\n<p>This assignment is for you to upload your work for this Exam. Number each problem and be neat with your work.<strong><span><span><br></span></span></strong></p>\n<p><span><strong>Work must be uploaded before the due date of the Exam <span>to receive credit. Exam grades\n                may be penalized if no work is shown on a problem or uploaded. </span></strong><span><span><span><span><span><strong>Please make sure your image is legible, otherwise you may still occur penalties.</strong></span></span></span></span></span></span></p>\n<p><span><span><span><span><span><span><span>Name the file as LastName_Exam#Work (Example: Smith_Exam1Work).</span></span></span></span></span></span></span></p>\n<p><span><span><span><span><span><span><span>You may submit your file as a PDF, DOC, TXT, GIF, JPEG, or PNG.<br></span><strong></strong></span></span></span></span></span></span></p>\n<p><span><span style=\"color: #AD0000;\"><strong><br></strong></span></span></p>\n<p><span><span style=\"color: #AD0000;\"><strong>For adopting instructors:<br></strong></span></span></p>\n<ol>\n    <li><span><span style=\"color: #AD0000;\"><strong>Make sure\n                    settings are correct for file upload or online text, number of files allowed, notifying graders\n                    upon submission, and restrictions/conditional release.</strong></span></span></li>\n    <li><span><span style=\"color: #AD0000;\"><strong></strong></span></span><span><strong></strong></span><span><span style=\"color: #AD0000;\"><strong>Activity completion: set to \"Student must submit this activity to complete it,\" with expected completion date if desired.</strong></span></span>\n    </li>\n</ol>",
+                    "introformat": 1,
+                    "introfiles": [],
+                    "introattachments": [],
+                    "timelimit": 0,
+                    "submissionattachments": 0
+                },
+                {
+                    "id": 5,
+                    "cmid": 76,
+                    "course": 2,
+                    "name": "Quiz 3 Work Upload Assignment",
+                    "nosubmissions": 0,
+                    "submissiondrafts": 0,
+                    "sendnotifications": 0,
+                    "sendlatenotifications": 0,
+                    "sendstudentnotifications": 1,
+                    "duedate": 0,
+                    "allowsubmissionsfromdate": 0,
+                    "grade": 100,
+                    "gradepenalty": 0,
+                    "timemodified": 1698179286,
+                    "completionsubmit": 0,
+                    "cutoffdate": 0,
+                    "gradingduedate": 0,
+                    "teamsubmission": 0,
+                    "requireallteammemberssubmit": 0,
+                    "teamsubmissiongroupingid": 0,
+                    "blindmarking": 0,
+                    "hidegrader": 0,
+                    "revealidentities": 0,
+                    "attemptreopenmethod": "none",
+                    "maxattempts": -1,
+                    "markingworkflow": 0,
+                    "markingallocation": 0,
+                    "markinganonymous": 0,
+                    "requiresubmissionstatement": 0,
+                    "preventsubmissionnotingroup": 0,
+                    "configs": [
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "enabled",
+                            "value": "1"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "maxfilesubmissions",
+                            "value": "1"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "maxsubmissionsizebytes",
+                            "value": "41943040"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "filetypeslist",
+                            "value": ""
+                        },
+                        {
+                            "plugin": "comments",
+                            "subtype": "assignsubmission",
+                            "name": "enabled",
+                            "value": "1"
+                        }
+                    ],
+                    "intro": "<h5 style=\":=;\">Instructions</h5>\n<p>This assignment is for you to upload your work for this Quiz. Number each problem and be neat with your work.<strong><span><span><br></span></span></strong></p>\n<p><span><strong>Work must be uploaded before the due date of the Quiz <span>to receive credit. Quiz grades\n                may be penalized if no work is shown on a problem or uploaded. </span></strong><span><span><span><span><span><strong>Please make sure your image is legible, otherwise you may still occur penalties.</strong></span></span></span></span></span></span></p>\n<p><span><span><span><span><span><span><span>Name the file as LastName_Quiz#Work (Example: Smith_Quiz1Work).</span></span></span></span></span></span></span></p>\n<p><span><span><span><span><span><span><span>You may submit your file as a PDF, DOC, TXT, GIF, JPEG, or PNG.<br></span><strong></strong></span></span></span></span></span></span></p>\n<p><span><span style=\"color: #AD0000;\"><strong><br></strong></span></span></p>\n<p><span><span style=\"color: #AD0000;\"><strong>For adopting instructors:<br></strong></span></span></p>\n<ol>\n    <li><span><span style=\"color: #AD0000;\"><strong>Make sure\n                    settings are correct for file upload or online text, number of files allowed, notifying graders\n                    upon submission, and restrictions/conditional release.</strong></span></span></li>\n    <li><span><span style=\"color: #AD0000;\"><strong></strong></span></span><span><strong></strong></span><span><span style=\"color: #AD0000;\"><strong>Activity completion: set to \"Student must submit this activity to complete it,\" with expected completion date if desired.</strong></span></span>\n    </li>\n</ol>",
+                    "introformat": 1,
+                    "introfiles": [],
+                    "introattachments": [],
+                    "timelimit": 0,
+                    "submissionattachments": 0
+                },
+                {
+                    "id": 6,
+                    "cmid": 80,
+                    "course": 2,
+                    "name": "Midterm Exam or Exam 2 Work Upload Assignment",
+                    "nosubmissions": 0,
+                    "submissiondrafts": 0,
+                    "sendnotifications": 0,
+                    "sendlatenotifications": 0,
+                    "sendstudentnotifications": 1,
+                    "duedate": 0,
+                    "allowsubmissionsfromdate": 0,
+                    "grade": 100,
+                    "gradepenalty": 0,
+                    "timemodified": 1698183967,
+                    "completionsubmit": 0,
+                    "cutoffdate": 0,
+                    "gradingduedate": 0,
+                    "teamsubmission": 0,
+                    "requireallteammemberssubmit": 0,
+                    "teamsubmissiongroupingid": 0,
+                    "blindmarking": 0,
+                    "hidegrader": 0,
+                    "revealidentities": 0,
+                    "attemptreopenmethod": "none",
+                    "maxattempts": -1,
+                    "markingworkflow": 0,
+                    "markingallocation": 0,
+                    "markinganonymous": 0,
+                    "requiresubmissionstatement": 0,
+                    "preventsubmissionnotingroup": 0,
+                    "configs": [
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "enabled",
+                            "value": "1"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "maxfilesubmissions",
+                            "value": "1"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "maxsubmissionsizebytes",
+                            "value": "41943040"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "filetypeslist",
+                            "value": ""
+                        },
+                        {
+                            "plugin": "comments",
+                            "subtype": "assignsubmission",
+                            "name": "enabled",
+                            "value": "1"
+                        }
+                    ],
+                    "intro": "<h5 style=\":=;\">Instructions</h5>\n<p>This assignment is for you to upload your work for this Exam. Number each problem and be neat with your work.<strong><span><span><br></span></span></strong></p>\n<p><span><strong>Work must be uploaded before the due date of the Exam <span>to receive credit. Exam grades\n                may be penalized if no work is shown on a problem or uploaded. </span></strong><span><span><span><span><span><strong>Please make sure your image is legible, otherwise you may still occur penalties.</strong></span></span></span></span></span></span></p>\n<p><span><span><span><span><span><span><span>Name the file as LastName_Exam#Work (Example: Smith_Exam1Work).</span></span></span></span></span></span></span></p>\n<p><span><span><span><span><span><span><span>You may submit your file as a PDF, DOC, TXT, GIF, JPEG, or PNG.<br></span><strong></strong></span></span></span></span></span></span></p>\n<p><span><span style=\"color: #AD0000;\"><strong><br></strong></span></span></p>\n<p><span><span style=\"color: #AD0000;\"><strong>For adopting instructors:<br></strong></span></span></p>\n<ol>\n    <li><span><span style=\"color: #AD0000;\"><strong>Make sure\n                    settings are correct for file upload or online text, number of files allowed, notifying graders\n                    upon submission, and restrictions/conditional release.</strong></span></span></li>\n    <li><span><span style=\"color: #AD0000;\"><strong></strong></span></span><span><strong></strong></span><span><span style=\"color: #AD0000;\"><strong>Activity completion: set to \"Student must submit this activity to complete it,\" with expected completion date if desired.</strong></span></span>\n    </li>\n</ol>",
+                    "introformat": 1,
+                    "introfiles": [],
+                    "introattachments": [],
+                    "timelimit": 0,
+                    "submissionattachments": 0
+                },
+                {
+                    "id": 7,
+                    "cmid": 91,
+                    "course": 2,
+                    "name": "Quiz 4 Work Upload Assignment",
+                    "nosubmissions": 0,
+                    "submissiondrafts": 0,
+                    "sendnotifications": 0,
+                    "sendlatenotifications": 0,
+                    "sendstudentnotifications": 1,
+                    "duedate": 0,
+                    "allowsubmissionsfromdate": 0,
+                    "grade": 100,
+                    "gradepenalty": 0,
+                    "timemodified": 1698179292,
+                    "completionsubmit": 0,
+                    "cutoffdate": 0,
+                    "gradingduedate": 0,
+                    "teamsubmission": 0,
+                    "requireallteammemberssubmit": 0,
+                    "teamsubmissiongroupingid": 0,
+                    "blindmarking": 0,
+                    "hidegrader": 0,
+                    "revealidentities": 0,
+                    "attemptreopenmethod": "none",
+                    "maxattempts": -1,
+                    "markingworkflow": 0,
+                    "markingallocation": 0,
+                    "markinganonymous": 0,
+                    "requiresubmissionstatement": 0,
+                    "preventsubmissionnotingroup": 0,
+                    "configs": [
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "enabled",
+                            "value": "1"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "maxfilesubmissions",
+                            "value": "1"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "maxsubmissionsizebytes",
+                            "value": "41943040"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "filetypeslist",
+                            "value": ""
+                        },
+                        {
+                            "plugin": "comments",
+                            "subtype": "assignsubmission",
+                            "name": "enabled",
+                            "value": "1"
+                        }
+                    ],
+                    "intro": "<h5 style=\":=;\">Instructions</h5>\n<p>This assignment is for you to upload your work for this Quiz. Number each problem and be neat with your work.<strong><span><span><br></span></span></strong></p>\n<p><span><strong>Work must be uploaded before the due date of the Quiz <span>to receive credit. Quiz grades\n                may be penalized if no work is shown on a problem or uploaded. </span></strong><span><span><span><span><span><strong>Please make sure your image is legible, otherwise you may still occur penalties.</strong></span></span></span></span></span></span></p>\n<p><span><span><span><span><span><span><span>Name the file as LastName_Quiz#Work (Example: Smith_Quiz1Work).</span></span></span></span></span></span></span></p>\n<p><span><span><span><span><span><span><span>You may submit your file as a PDF, DOC, TXT, GIF, JPEG, or PNG.<br></span><strong></strong></span></span></span></span></span></span></p>\n<p><span><span style=\"color: #AD0000;\"><strong><br></strong></span></span></p>\n<p><span><span style=\"color: #AD0000;\"><strong>For adopting instructors:<br></strong></span></span></p>\n<ol>\n    <li><span><span style=\"color: #AD0000;\"><strong>Make sure\n                    settings are correct for file upload or online text, number of files allowed, notifying graders\n                    upon submission, and restrictions/conditional release.</strong></span></span></li>\n    <li><span><span style=\"color: #AD0000;\"><strong></strong></span></span><span><strong></strong></span><span><span style=\"color: #AD0000;\"><strong>Activity completion: set to \"Student must submit this activity to complete it,\" with expected completion date if desired.</strong></span></span>\n    </li>\n</ol>",
+                    "introformat": 1,
+                    "introfiles": [],
+                    "introattachments": [],
+                    "timelimit": 0,
+                    "submissionattachments": 0
+                },
+                {
+                    "id": 8,
+                    "cmid": 107,
+                    "course": 2,
+                    "name": "Quiz 5 Work Upload Assignment",
+                    "nosubmissions": 0,
+                    "submissiondrafts": 0,
+                    "sendnotifications": 0,
+                    "sendlatenotifications": 0,
+                    "sendstudentnotifications": 1,
+                    "duedate": 0,
+                    "allowsubmissionsfromdate": 0,
+                    "grade": 100,
+                    "gradepenalty": 0,
+                    "timemodified": 1698179297,
+                    "completionsubmit": 0,
+                    "cutoffdate": 0,
+                    "gradingduedate": 0,
+                    "teamsubmission": 0,
+                    "requireallteammemberssubmit": 0,
+                    "teamsubmissiongroupingid": 0,
+                    "blindmarking": 0,
+                    "hidegrader": 0,
+                    "revealidentities": 0,
+                    "attemptreopenmethod": "none",
+                    "maxattempts": -1,
+                    "markingworkflow": 0,
+                    "markingallocation": 0,
+                    "markinganonymous": 0,
+                    "requiresubmissionstatement": 0,
+                    "preventsubmissionnotingroup": 0,
+                    "configs": [
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "enabled",
+                            "value": "1"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "maxfilesubmissions",
+                            "value": "1"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "maxsubmissionsizebytes",
+                            "value": "41943040"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "filetypeslist",
+                            "value": ""
+                        },
+                        {
+                            "plugin": "comments",
+                            "subtype": "assignsubmission",
+                            "name": "enabled",
+                            "value": "1"
+                        }
+                    ],
+                    "intro": "<h5 style=\":=;\">Instructions</h5>\n<p>This assignment is for you to upload your work for this Quiz. Number each problem and be neat with your work.<strong><span><span><br></span></span></strong></p>\n<p><span><strong>Work must be uploaded before the due date of the Quiz <span>to receive credit. Quiz grades\n                may be penalized if no work is shown on a problem or uploaded. </span></strong><span><span><span><span><span><strong>Please make sure your image is legible, otherwise you may still occur penalties.</strong></span></span></span></span></span></span></p>\n<p><span><span><span><span><span><span><span>Name the file as LastName_Quiz#Work (Example: Smith_Quiz1Work).</span></span></span></span></span></span></span></p>\n<p><span><span><span><span><span><span><span>You may submit your file as a PDF, DOC, TXT, GIF, JPEG, or PNG.<br></span><strong></strong></span></span></span></span></span></span></p>\n<p><span><span style=\"color: #AD0000;\"><strong><br></strong></span></span></p>\n<p><span><span style=\"color: #AD0000;\"><strong>For adopting instructors:<br></strong></span></span></p>\n<ol>\n    <li><span><span style=\"color: #AD0000;\"><strong>Make sure\n                    settings are correct for file upload or online text, number of files allowed, notifying graders\n                    upon submission, and restrictions/conditional release.</strong></span></span></li>\n    <li><span><span style=\"color: #AD0000;\"><strong></strong></span></span><span><strong></strong></span><span><span style=\"color: #AD0000;\"><strong>Activity completion: set to \"Student must submit this activity to complete it,\" with expected completion date if desired.</strong></span></span>\n    </li>\n</ol>",
+                    "introformat": 1,
+                    "introfiles": [],
+                    "introattachments": [],
+                    "timelimit": 0,
+                    "submissionattachments": 0
+                },
+                {
+                    "id": 9,
+                    "cmid": 111,
+                    "course": 2,
+                    "name": "Exam 2 or Exam 3 Work Upload Assignment",
+                    "nosubmissions": 0,
+                    "submissiondrafts": 0,
+                    "sendnotifications": 0,
+                    "sendlatenotifications": 0,
+                    "sendstudentnotifications": 1,
+                    "duedate": 0,
+                    "allowsubmissionsfromdate": 0,
+                    "grade": 100,
+                    "gradepenalty": 0,
+                    "timemodified": 1698183996,
+                    "completionsubmit": 0,
+                    "cutoffdate": 0,
+                    "gradingduedate": 0,
+                    "teamsubmission": 0,
+                    "requireallteammemberssubmit": 0,
+                    "teamsubmissiongroupingid": 0,
+                    "blindmarking": 0,
+                    "hidegrader": 0,
+                    "revealidentities": 0,
+                    "attemptreopenmethod": "none",
+                    "maxattempts": -1,
+                    "markingworkflow": 0,
+                    "markingallocation": 0,
+                    "markinganonymous": 0,
+                    "requiresubmissionstatement": 0,
+                    "preventsubmissionnotingroup": 0,
+                    "configs": [
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "enabled",
+                            "value": "1"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "maxfilesubmissions",
+                            "value": "1"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "maxsubmissionsizebytes",
+                            "value": "41943040"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "filetypeslist",
+                            "value": ""
+                        },
+                        {
+                            "plugin": "comments",
+                            "subtype": "assignsubmission",
+                            "name": "enabled",
+                            "value": "1"
+                        }
+                    ],
+                    "intro": "<h5 style=\":=;\">Instructions</h5>\n<p>This assignment is for you to upload your work for this Exam. Number each problem and be neat with your work.<strong><span><span><br></span></span></strong></p>\n<p><span><strong>Work must be uploaded before the due date of the Exam <span>to receive credit. Exam grades\n                may be penalized if no work is shown on a problem or uploaded. </span></strong><span><span><span><span><span><strong>Please make sure your image is legible, otherwise you may still occur penalties.</strong></span></span></span></span></span></span></p>\n<p><span><span><span><span><span><span><span>Name the file as LastName_Exam#Work (Example: Smith_Exam1Work).</span></span></span></span></span></span></span></p>\n<p><span><span><span><span><span><span><span>You may submit your file as a PDF, DOC, TXT, GIF, JPEG, or PNG.<br></span><strong></strong></span></span></span></span></span></span></p>\n<p><span><span style=\"color: #AD0000;\"><strong><br></strong></span></span></p>\n<p><span><span style=\"color: #AD0000;\"><strong>For adopting instructors:<br></strong></span></span></p>\n<ol>\n    <li><span><span style=\"color: #AD0000;\"><strong>Make sure\n                    settings are correct for file upload or online text, number of files allowed, notifying graders\n                    upon submission, and restrictions/conditional release.</strong></span></span></li>\n    <li><span><span style=\"color: #AD0000;\"><strong></strong></span></span><span><strong></strong></span><span><span style=\"color: #AD0000;\"><strong>Activity completion: set to \"Student must submit this activity to complete it,\" with expected completion date if desired.</strong></span></span>\n    </li>\n</ol>",
+                    "introformat": 1,
+                    "introfiles": [],
+                    "introattachments": [],
+                    "timelimit": 0,
+                    "submissionattachments": 0
+                },
+                {
+                    "id": 10,
+                    "cmid": 128,
+                    "course": 2,
+                    "name": "Quiz 6 Work Upload Assignment",
+                    "nosubmissions": 0,
+                    "submissiondrafts": 0,
+                    "sendnotifications": 0,
+                    "sendlatenotifications": 0,
+                    "sendstudentnotifications": 1,
+                    "duedate": 0,
+                    "allowsubmissionsfromdate": 0,
+                    "grade": 100,
+                    "gradepenalty": 0,
+                    "timemodified": 1698179303,
+                    "completionsubmit": 0,
+                    "cutoffdate": 0,
+                    "gradingduedate": 0,
+                    "teamsubmission": 0,
+                    "requireallteammemberssubmit": 0,
+                    "teamsubmissiongroupingid": 0,
+                    "blindmarking": 0,
+                    "hidegrader": 0,
+                    "revealidentities": 0,
+                    "attemptreopenmethod": "none",
+                    "maxattempts": -1,
+                    "markingworkflow": 0,
+                    "markingallocation": 0,
+                    "markinganonymous": 0,
+                    "requiresubmissionstatement": 0,
+                    "preventsubmissionnotingroup": 0,
+                    "configs": [
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "enabled",
+                            "value": "1"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "maxfilesubmissions",
+                            "value": "1"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "maxsubmissionsizebytes",
+                            "value": "41943040"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "filetypeslist",
+                            "value": ""
+                        },
+                        {
+                            "plugin": "comments",
+                            "subtype": "assignsubmission",
+                            "name": "enabled",
+                            "value": "1"
+                        }
+                    ],
+                    "intro": "<h5 style=\":=;\">Instructions</h5>\n<p>This assignment is for you to upload your work for this Quiz. Number each problem and be neat with your work.<strong><span><span><br></span></span></strong></p>\n<p><span><strong>Work must be uploaded before the due date of the Quiz <span>to receive credit. Quiz grades\n                may be penalized if no work is shown on a problem or uploaded. </span></strong><span><span><span><span><span><strong>Please make sure your image is legible, otherwise you may still occur penalties.</strong></span></span></span></span></span></span></p>\n<p><span><span><span><span><span><span><span>Name the file as LastName_Quiz#Work (Example: Smith_Quiz1Work).</span></span></span></span></span></span></span></p>\n<p><span><span><span><span><span><span><span>You may submit your file as a PDF, DOC, TXT, GIF, JPEG, or PNG.<br></span><strong></strong></span></span></span></span></span></span></p>\n<p><span><span style=\"color: #AD0000;\"><strong><br></strong></span></span></p>\n<p><span><span style=\"color: #AD0000;\"><strong>For adopting instructors:<br></strong></span></span></p>\n<ol>\n    <li><span><span style=\"color: #AD0000;\"><strong>Make sure\n                    settings are correct for file upload or online text, number of files allowed, notifying graders\n                    upon submission, and restrictions/conditional release.</strong></span></span></li>\n    <li><span><span style=\"color: #AD0000;\"><strong></strong></span></span><span><strong></strong></span><span><span style=\"color: #AD0000;\"><strong>Activity completion: set to \"Student must submit this activity to complete it,\" with expected completion date if desired.</strong></span></span>\n    </li>\n</ol>",
+                    "introformat": 1,
+                    "introfiles": [],
+                    "introattachments": [],
+                    "timelimit": 0,
+                    "submissionattachments": 0
+                },
+                {
+                    "id": 11,
+                    "cmid": 132,
+                    "course": 2,
+                    "name": "Final Exam Work Upload Assignment",
+                    "nosubmissions": 0,
+                    "submissiondrafts": 0,
+                    "sendnotifications": 0,
+                    "sendlatenotifications": 0,
+                    "sendstudentnotifications": 1,
+                    "duedate": 0,
+                    "allowsubmissionsfromdate": 0,
+                    "grade": 100,
+                    "gradepenalty": 0,
+                    "timemodified": 1698184030,
+                    "completionsubmit": 0,
+                    "cutoffdate": 0,
+                    "gradingduedate": 0,
+                    "teamsubmission": 0,
+                    "requireallteammemberssubmit": 0,
+                    "teamsubmissiongroupingid": 0,
+                    "blindmarking": 0,
+                    "hidegrader": 0,
+                    "revealidentities": 0,
+                    "attemptreopenmethod": "none",
+                    "maxattempts": -1,
+                    "markingworkflow": 0,
+                    "markingallocation": 0,
+                    "markinganonymous": 0,
+                    "requiresubmissionstatement": 0,
+                    "preventsubmissionnotingroup": 0,
+                    "configs": [
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "enabled",
+                            "value": "1"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "maxfilesubmissions",
+                            "value": "1"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "maxsubmissionsizebytes",
+                            "value": "41943040"
+                        },
+                        {
+                            "plugin": "file",
+                            "subtype": "assignsubmission",
+                            "name": "filetypeslist",
+                            "value": ""
+                        },
+                        {
+                            "plugin": "comments",
+                            "subtype": "assignsubmission",
+                            "name": "enabled",
+                            "value": "1"
+                        }
+                    ],
+                    "intro": "<h5 style=\":=;\">Instructions</h5>\n<p>This assignment is for you to upload your work for this Exam. Number each problem and be neat with your work.<strong><span><span><br></span></span></strong></p>\n<p><span><strong>Work must be uploaded before the due date of the Exam <span>to receive credit. Exam grades\n                may be penalized if no work is shown on a problem or uploaded. </span></strong><span><span><span><span><span><strong>Please make sure your image is legible, otherwise you may still occur penalties.</strong></span></span></span></span></span></span></p>\n<p><span><span><span><span><span><span><span>Name the file as LastName_Exam#Work (Example: Smith_Exam1Work).</span></span></span></span></span></span></span></p>\n<p><span><span><span><span><span><span><span>You may submit your file as a PDF, DOC, TXT, GIF, JPEG, or PNG.<br></span><strong></strong></span></span></span></span></span></span></p>\n<p><span><span style=\"color: #AD0000;\"><strong><br></strong></span></span></p>\n<p><span><span style=\"color: #AD0000;\"><strong>For adopting instructors:<br></strong></span></span></p>\n<ol>\n    <li><span><span style=\"color: #AD0000;\"><strong>Make sure\n                    settings are correct for file upload or online text, number of files allowed, notifying graders\n                    upon submission, and restrictions/conditional release.</strong></span></span></li>\n    <li><span><span style=\"color: #AD0000;\"><strong></strong></span></span><span><strong></strong></span><span><span style=\"color: #AD0000;\"><strong>Activity completion: set to \"Student must submit this activity to complete it,\" with expected completion date if desired.</strong></span></span>\n    </li>\n</ol>",
+                    "introformat": 1,
+                    "introfiles": [],
+                    "introattachments": [],
+                    "timelimit": 0,
+                    "submissionattachments": 0
+                }
+            ]
+        }
+    ],
+    "warnings": []
+}
